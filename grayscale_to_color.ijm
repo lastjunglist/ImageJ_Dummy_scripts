@@ -1,3 +1,4 @@
+// This script was written for ImageJ 1.54d
 // The piece for batch processing of the whole folder I borrowed from kind romainGuiet and his split_channels.ijm, thank you a lot!
 
 // ask user to select a folder
