@@ -1,3 +1,5 @@
+// The piece for batch processing of the whole folder I borrowed from kind romainGuiet and his split_channels.ijm, thank you a lot!
+
 // ask user to select a folder
 dir = getDirectory("Select A folder");
 
